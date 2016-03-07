@@ -1,6 +1,6 @@
 == README
 
-#Blogger App"
+#Blogger App#
 
 This is a basic blogger app. You can create new artciles, post comments, upload images, delete articles, and edit articles.
 The app is live at : https://powerful-thicket-2119.herokuapp.com/articles
